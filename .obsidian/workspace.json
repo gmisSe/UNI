@@ -127,47 +127,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "e2737323bc556f9f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a9492d4875317a60",
-        "type": "window",
-        "children": [
-          {
-            "id": "8857c7fc3972b3c9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2449121277630009",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://publish.obsidian.md/git-doc/Getting+Started",
-                    "title": "Getting Started - Git Documentation - Obsidian Publish",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Getting Started - Git Documentation - Obsidian Publish"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 240,
-        "y": 0,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2449121277630009",
+  "active": "00f9f25ad7e79d79",
   "lastOpenFiles": [
+    "roblox reverse/replace0.ahk",
+    "roblox reverse/antiafk.ahk",
+    "roblox reverse/aeuau.lua",
+    "roblox reverse",
+    "my layout/egToDevorak.ahk",
+    "my layout/main.ahk",
+    "my layout/frToDevorak.ahk",
+    "my layout",
     "Navigate through children from DataModel-1754925348488.png",
     "Navigate through children from DataModel-1754924874836.png",
     "Navigate through children from DataModel-1754923439300.png",
@@ -199,18 +168,11 @@
     "Coding/Game Hacking/Tools/Resource Hacker.md",
     "Coding/Game Hacking/Tools",
     "Conding/Game Hacking/Roblox/Drawing 2025-08-10 19.04.38.excalidraw.md",
-    "Coding/Game Hacking/Roblox",
     "Configs/Excalidraw/Template/base black.md",
     "Conding/Drawing 2025-08-10 01.17.17.excalidraw.md",
-    "Configs/Excalidraw/Template",
-    "Configs/Excalidraw/Scripts",
-    "Configs/Excalidraw",
-    "Configs",
     "eaouau.md",
     "99 Conding/Untitled/Reverse Engineering.md",
-    "Coding/Game Hacking",
     "99 Conding/vim.md",
-    "Coding",
     "99 Conding/nigga.md",
     "Discord - Group Chat That’s All Fun & Games.md"
   ]
