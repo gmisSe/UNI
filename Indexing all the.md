@@ -1,3 +1,9 @@
+#Roblox
+#Reverse
+#External
+#tool/ReClass 
+#tool/CheatEngine  
+#lua 
 
 I wanna make a function to be able to index all the existing children of DataModel 
 
@@ -43,7 +49,7 @@ local dataModel_Offset = 0x1C0
 local dataModel_Address = readPointer(dataModel_Offset + fakeDataModel_Address)
 ---------------------------------------------------
 local children_Offset = 0x68
-function findChildren(addr)
+function getChildren(addr)
 	local childrenStart_Address = readPointer(readPointer(addr + children_Offset))
 	print(to_hex(childrenStart_Address))
 	local childrenEnd_Address = readPointer(readPointer(addr + children_Offset) + 0x8)
@@ -60,6 +66,16 @@ function findChildren(addr)
     return children
 end
 --------------------------------------------------
-
+local child {
+	local parents = ,
+	local children = ,
+}
+function getAllDescendentChild(addr)
+	local children = getChildren(addr)
+	local index = 0
+	for i, child_ in ipairs(children) do
+		child:
+	end
+end
 
 ```

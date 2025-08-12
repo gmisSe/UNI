@@ -1,3 +1,9 @@
+#Roblox
+#Reverse
+#External
+#tool/ReClass 
+#tool/CheatEngine  
+#lua 
 In this note we'll see how to get DataModel's *children*, *class name* and *name*.
 And then apply the same things with the children. 
 
