@@ -8,13 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be77010eac095bb7",
+            "id": "ab04567eac0697c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "truc à fair.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "truc à fair"
             }
           }
         ]
@@ -119,8 +124,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be77010eac095bb7",
+  "active": "ab04567eac0697c8",
   "lastOpenFiles": [
+    "Game Hacking/Roblox/Patch Cheat Engine for Roblox.md",
+    "truc à fair.md",
+    "Game Hacking/Roblox/Indexing all the children.md",
+    "Game Hacking/Roblox/Getting to Roblox DataModel.md",
     "_/accounts/Roblox/naming.md",
     "_/accounts/Roblox/reptile accs.md",
     "Privacy/privacy resources.md",
@@ -135,9 +144,6 @@
     "_/Important/Uni",
     "_/accounts",
     "cpp",
-    "Game Hacking/Roblox/Getting to Roblox DataModel.md",
-    "Game Hacking/Roblox/Indexing all the children.md",
-    "Game Hacking/Roblox/Patch Cheat Engine for Roblox.md",
     "Game Hacking/Roblox/Navigate through children from DataModel.md",
     "Data types.md",
     "Data types-1755131355873.png",
