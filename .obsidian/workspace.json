@@ -1,25 +1,25 @@
 {
   "main": {
-    "id": "be098f043a5afea0",
+    "id": "7c1d09047ff6033b",
     "type": "split",
     "children": [
       {
-        "id": "8f20ff17726e132c",
+        "id": "b60251113dbfca4b",
         "type": "tabs",
         "children": [
           {
-            "id": "ab04567eac0697c8",
+            "id": "60ed1a3140baa1de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truc à fair.md",
+                "file": "Privacy/privacy resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "truc à fair"
+              "title": "privacy resources"
             }
           }
         ]
@@ -28,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4988a5db0a196e39",
+    "id": "06017202f5a33d5a",
     "type": "split",
     "children": [
       {
-        "id": "20ff28167b703c10",
+        "id": "96fe222ab79b67f2",
         "type": "tabs",
         "children": [
           {
-            "id": "208f578a1977c9fa",
+            "id": "78a74a401bbed6b9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +49,7 @@
             }
           },
           {
-            "id": "588ffe29f106f9b1",
+            "id": "385c51c2ed1eb776",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,15 +72,15 @@
     "width": 200
   },
   "right": {
-    "id": "85c3d69ee286492e",
+    "id": "74c719984aa96eab",
     "type": "split",
     "children": [
       {
-        "id": "822bb0cfb618e6ed",
+        "id": "3a74164a77fa0bb1",
         "type": "tabs",
         "children": [
           {
-            "id": "5933ec373990c7c4",
+            "id": "359c8369d8352b3f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -95,7 +95,7 @@
             }
           },
           {
-            "id": "f6a1a7db98e83e1b",
+            "id": "a944b845b274e873",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -125,34 +125,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "208f578a1977c9fa",
+  "active": "60ed1a3140baa1de",
   "lastOpenFiles": [
+    "Privacy/privacy resources.md",
     "_/mullvad_account.txt",
     "_/mullvad-vpn-receipt.pdf",
-    "Game Hacking/Roblox/Patch Cheat Engine for Roblox.md",
     "truc à fair.md",
-    "Game Hacking/Roblox/Indexing all the children.md",
-    "Game Hacking/Roblox/Getting to Roblox DataModel.md",
-    "_/accounts/Roblox/naming.md",
-    "_/accounts/Roblox/reptile accs.md",
-    "Privacy/privacy resources.md",
     "getting faster/vim motions.md",
     "getting faster/dvorak.md",
-    "switching to vim.md",
     "getting faster",
-    "Privacy",
-    "_/accounts/Roblox/tiamv accs.md",
     "cpp/learning cpp/basics/debugger.md",
-    "_/accounts/Roblox",
-    "_/Important/Uni",
-    "_/accounts",
-    "cpp",
-    "Game Hacking/Roblox/Navigate through children from DataModel.md",
-    "Data types.md",
-    "Data types-1755131355873.png",
-    "Data types-1755130680368.png",
-    "debugger-1755082483584.png",
     "cpp/learning cpp/basics",
-    "cpp/learning cpp"
+    "cpp/learning cpp",
+    "cpp",
+    "_/keyboard/z/switch keyboard layout.ahk",
+    "_/keyboard/z/Findkeyoard2.ahk",
+    "_/keyboard/z/findkeyboard.ahk",
+    "_/Excalidraw/Template/base black.md",
+    "_/keyboard/z/findkey.ahk",
+    "_/accounts/Roblox/tiamv accs.md",
+    "_/accounts/Roblox/reptile accs.md",
+    "_/accounts/Roblox/naming.md",
+    "_/keyboard/vim.md",
+    "Game Hacking/Tools/Vulkan.md",
+    "Game Hacking/Tools/Resource Hacker.md",
+    "Game Hacking/Tools/ReClass.md",
+    "Game Hacking/Tools/IDA.md",
+    "Game Hacking/Tools/HxD.md",
+    "Game Hacking/Tools/Cheat Engine.md",
+    "Game Hacking/Roblox/Patch Reclass for Roblox.md",
+    "Game Hacking/Roblox/Patch Cheat Engine for Roblox.md",
+    "Game Hacking/Roblox/Navigate through children from DataModel.md",
+    "Game Hacking/Roblox/Indexing all the children.md",
+    "Game Hacking/Roblox/Getting to Roblox DataModel.md",
+    "Game Hacking/img/textview.png",
+    "Game Hacking/img/xrefto.png",
+    "Game Hacking/img/rebane2.png",
+    "Game Hacking/img/rebase.png",
+    "Game Hacking/img/Navigate through children from DataModel-1754925348488.png",
+    "Game Hacking/img/offsettaskscheduler.png",
+    "Game Hacking/img/Pasted Image 20250811073902_432.png",
+    "Game Hacking/img/Navigate through children from DataModel-1754925348488 1.png",
+    "Game Hacking/img/Navigate through children from DataModel-1754924874836.png",
+    "Game Hacking/img/Navigate through children from DataModel-1754924874836 1.png",
+    "Game Hacking/img/job pattern.md",
+    "Indexing all the.md",
+    "Coding/Game Hacking/Roblox/Navigate through children from DataModel.md",
+    "Coding/Game Hacking/Roblox/Patch Reclass for Roblox.md"
   ]
 }
