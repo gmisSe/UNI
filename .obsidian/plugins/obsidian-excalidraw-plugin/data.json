@@ -4,7 +4,7 @@
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
-  "templateFilePath": "Other/Excalidraw/Template",
+  "templateFilePath": "_/Excalidraw/Template",
   "scriptFolderPath": "Other/Excalidraw/Scripts",
   "fontAssetsPath": "Excalidraw/CJK Fonts",
   "loadChineseFonts": false,
