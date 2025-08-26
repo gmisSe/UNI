@@ -11,15 +11,10 @@
             "id": "d3c70d6a302d8340",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cpp tutorial.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "cpp tutorial"
+              "title": "New tab"
             }
           }
         ]
@@ -125,7 +120,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3c70d6a302d8340",
+  "active": "208f578a1977c9fa",
   "lastOpenFiles": [
     "Game Hacking/Roblox/Getting to Roblox DataModel.md",
     "cpp tutorial.md",
