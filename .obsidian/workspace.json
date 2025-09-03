@@ -95,8 +95,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -121,8 +120,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d4fe1eb023363f0",
+  "active": "78a74a401bbed6b9",
   "lastOpenFiles": [
+    "gitignore.ini",
+    "gitignore",
     "typing.md",
     "cpp tutorial.md",
     "Privacy/privacy resources.md",
@@ -140,7 +141,6 @@
     "_/keyboard/z/Findkeyoard2.ahk",
     "_/keyboard/z/findkeyboard.ahk",
     "_/Excalidraw/Template/base black.md",
-    "_/keyboard/z/findkey.ahk",
     "_/accounts/Roblox/tiamv accs.md",
     "_/accounts/Roblox/reptile accs.md",
     "_/accounts/Roblox/naming.md",
@@ -167,7 +167,6 @@
     "Game Hacking/img/Navigate through children from DataModel-1754924874836.png",
     "Game Hacking/img/Navigate through children from DataModel-1754924874836 1.png",
     "Game Hacking/img/job pattern.md",
-    "Indexing all the.md",
-    "Coding/Game Hacking/Roblox/Navigate through children from DataModel.md"
+    "Indexing all the.md"
   ]
 }
