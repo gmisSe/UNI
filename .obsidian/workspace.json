@@ -11,10 +11,15 @@
             "id": "3d4fe1eb023363f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -120,8 +125,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78a74a401bbed6b9",
+  "active": "3d4fe1eb023363f0",
   "lastOpenFiles": [
+    "Untitled.md",
     "gitignore.ini",
     "gitignore",
     "typing.md",
@@ -139,7 +145,6 @@
     "cpp",
     "_/keyboard/z/switch keyboard layout.ahk",
     "_/keyboard/z/Findkeyoard2.ahk",
-    "_/keyboard/z/findkeyboard.ahk",
     "_/Excalidraw/Template/base black.md",
     "_/accounts/Roblox/tiamv accs.md",
     "_/accounts/Roblox/reptile accs.md",
