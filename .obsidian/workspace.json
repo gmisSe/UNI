@@ -11,10 +11,15 @@
             "id": "3d4fe1eb023363f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -120,7 +125,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78a74a401bbed6b9",
+  "active": "3d4fe1eb023363f0",
   "lastOpenFiles": [
     "Untitled.md",
     "gitignore.ini",
