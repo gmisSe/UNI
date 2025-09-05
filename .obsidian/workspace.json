@@ -11,10 +11,15 @@
             "id": "d3c70d6a302d8340",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "truc à fair.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "truc à fair"
             }
           }
         ]
@@ -120,10 +125,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "208f578a1977c9fa",
+  "active": "d3c70d6a302d8340",
   "lastOpenFiles": [
-    "Game Hacking/Roblox/Getting to Roblox DataModel.md",
+    "Game Hacking/Tools/IDA.md",
+    "_/accounts/Roblox/tiamv accs.md",
     "cpp tutorial.md",
+    "Game Hacking/Roblox/Getting to Roblox DataModel.md",
     "cpp basics.md",
     "idk.md",
     "truc à fair.md",
@@ -142,7 +149,6 @@
     "switching to vim.md",
     "getting faster",
     "Privacy",
-    "_/accounts/Roblox/tiamv accs.md",
     "cpp/learning cpp/basics/debugger.md",
     "_/accounts/Roblox",
     "_/Important/Uni",
