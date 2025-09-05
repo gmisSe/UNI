@@ -8,37 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02b59ec3fd61bbfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chimie générale Atomistique.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Chimie générale Atomistique"
-            }
-          },
-          {
             "id": "8bf5ae9629ef305a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chimie générale Atomistique.md",
+                "file": "Le Système Terre.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chimie générale Atomistique"
+              "title": "Le Système Terre"
+            }
+          },
+          {
+            "id": "2ba1d5593ac8c26a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Le Système Terre.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Le Système Terre"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,11 +142,12 @@
   },
   "active": "8bf5ae9629ef305a",
   "lastOpenFiles": [
-    "Méthodologie d'apprentissage de l'atomistique.md",
     "infos.md",
-    "Chimie générale Atomistique.md",
+    "Le Système Terre.md",
+    "Chimie/Chimie générale Atomistique.md",
+    "Chimie/Méthodologie d'apprentissage de l'atomistique.md",
     "SVT/La théorie cellulaire.md",
-    "Untitled",
+    "Chimie",
     "SVT",
     "SVT/Plan de cours intégré.md",
     "gitignore.ini",
@@ -178,7 +178,6 @@
     "Game Hacking/Tools/Cheat Engine.md",
     "Game Hacking/Roblox/Patch Reclass for Roblox.md",
     "Game Hacking/Roblox/Patch Cheat Engine for Roblox.md",
-    "Game Hacking/Roblox/Navigate through children from DataModel.md",
     "Game Hacking/img/textview.png",
     "Game Hacking/img/xrefto.png",
     "Game Hacking/img/rebane2.png",
