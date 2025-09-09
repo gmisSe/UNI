@@ -4,6 +4,8 @@ La première molécule qui constitue l'etre vivant : les acides aminées
 
 les 8 acide aminés : alanine cytosine timine adémine guamine tryptosine 
 rechercher les 8 acide aminés primordiaux
+Leurs fonction
+Leurs formule 
 les 2 pour les nourrissons
 ceux qui sont nécessaire pour tout les animaux
 
@@ -59,10 +61,21 @@ La symbiose est définie comme une association durable, à bénéfices réciproq
 
 article sur les différents endosymbiose et faire une fiche de lecture 
 
-Démarche méthodologique de la fiche de lecture pour les articles scientifiques sur la plateforme de cours 
+Démarche méthodologique de la fiche de lecture pour les articles scientifiques sur la plateforme de cours 1,5 milliards d'années, soit près d'un milliard d'années après l'apparition sur Terre des premiers 
 
+- La théorie de l'endosymbiotique
 
+Cette théorie a été énoncée par Max Taylor (1979) puis par Lynn Margulis (1993), les cellules Eucaryotes proviennent de l'ssociation de plusieurs types de cellules.
 
+- Endosymbiose primaire et secondaire 
+
+Au cours de l'évoulution, plusieurs évènements d'endosymbioses se sont répétés et ont conduit à la formation d'organismes particuliers.
+
+- Lors d'une endosymbiose primaire, le cellule eucaryote intègre un procaryote vivant, Ainsi, les chloroplastes des végétaux de la lignée verte (algues rouges et algues vertes, auxquelles se rattachent les végétaux terrestres) sont issus d'endosymbioses primaires impliquant une cyanobactérie. 
+
+Chez certains eucaryotes, les mitochondries ont évolua par suite d'une adaptation à des milieux anaérobies, sas jamais disparaitre : elles ont engendré des mitochondries particulières *les hydrogénosomes* réalisant une fermentation productrice de $H_{2}$ (par exemple chez certains Ciliés) mais aussi des organites de petite taille, seulement impliqués dans des biosynthèses pour la cellule hôte, *les mitosomes*.
+
+Lors des endosymbioses secondaires sont une réitération du processus, lorsqu'un eucaryote possédant déjà un endosymbiote entre en endosymbiose dans un autre eucaryote.
 
 
 

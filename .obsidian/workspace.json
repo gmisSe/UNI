@@ -4,37 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "41c0996918b586f2",
+        "id": "d8133bd2f11a6d0a",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf5ae9629ef305a",
+            "id": "d9e9d7dd85937250",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le Système Terre.md",
+                "file": "Trigonométrie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Le Système Terre"
+              "title": "Trigonométrie"
             }
           },
           {
-            "id": "2ba1d5593ac8c26a",
+            "id": "d9dfbd4197afbc34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le Système Terre.md",
+                "file": "Exercice 1 trigonométrie.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Le Système Terre"
+              "title": "Exercice 1 trigonométrie"
+            }
+          },
+          {
+            "id": "4f62fe34347ab034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercice 2 trigonométrie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Exercice 2 trigonométrie"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4afbd1f31ccb0ceb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee6cc898ebe84333",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Scan2025-09-09_142047_000.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Scan2025-09-09_142047_000"
             }
           }
         ]
@@ -124,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,19 +175,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bf5ae9629ef305a",
+  "active": "4f62fe34347ab034",
   "lastOpenFiles": [
+    "Exercice 1 trigonométrie.md",
+    "Exercice 2 trigonométrie.md",
+    "Trigonométrie.md",
+    "Scan2025-09-09_142047_000.jpg",
+    "trigo.md",
+    "Exercice 5 trigonométrie.md",
+    "Exercice 5 trigonométrie-1757439470474.png",
+    "Scan2025-09-09_142047_001.jpg",
+    "typing.md",
+    "SVT/Recherches.md",
+    "SVT/La théorie cellulaire.md",
+    "SVT/Plan de cours intégré.md",
+    "Geologie/Le Système Terre.md",
+    "Geologie",
+    "Untitled 1",
     "infos.md",
-    "Le Système Terre.md",
     "Chimie/Chimie générale Atomistique.md",
     "Chimie/Méthodologie d'apprentissage de l'atomistique.md",
-    "SVT/La théorie cellulaire.md",
     "Chimie",
     "SVT",
-    "SVT/Plan de cours intégré.md",
     "gitignore.ini",
     "gitignore",
-    "typing.md",
     "cpp tutorial.md",
     "Privacy/privacy resources.md",
     "_/mullvad_account.txt",
@@ -163,8 +209,6 @@
     "getting faster",
     "cpp/learning cpp/basics/debugger.md",
     "cpp/learning cpp/basics",
-    "cpp/learning cpp",
-    "cpp",
     "_/Excalidraw/Template/base black.md",
     "_/accounts/Roblox/tiamv accs.md",
     "_/accounts/Roblox/reptile accs.md",
@@ -172,21 +216,12 @@
     "_/keyboard/vim.md",
     "Game Hacking/Tools/Vulkan.md",
     "Game Hacking/Tools/Resource Hacker.md",
-    "Game Hacking/Tools/ReClass.md",
-    "Game Hacking/Tools/IDA.md",
-    "Game Hacking/Tools/HxD.md",
-    "Game Hacking/Tools/Cheat Engine.md",
-    "Game Hacking/Roblox/Patch Reclass for Roblox.md",
-    "Game Hacking/Roblox/Patch Cheat Engine for Roblox.md",
     "Game Hacking/img/textview.png",
     "Game Hacking/img/xrefto.png",
     "Game Hacking/img/rebane2.png",
     "Game Hacking/img/rebase.png",
     "Game Hacking/img/Navigate through children from DataModel-1754925348488.png",
     "Game Hacking/img/offsettaskscheduler.png",
-    "Game Hacking/img/Pasted Image 20250811073902_432.png",
-    "Game Hacking/img/Navigate through children from DataModel-1754925348488 1.png",
-    "Game Hacking/img/Navigate through children from DataModel-1754924874836.png",
-    "Game Hacking/img/Navigate through children from DataModel-1754924874836 1.png"
+    "Game Hacking/img/Pasted Image 20250811073902_432.png"
   ]
 }

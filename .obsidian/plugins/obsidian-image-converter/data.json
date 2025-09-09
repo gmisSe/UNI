@@ -311,7 +311,7 @@
   "resizeState": {
     "isResizing": false
   },
-  "enableContextMenu": true,
+  "enableContextMenu": false,
   "showSpaceSavedNotification": true,
   "revertToOriginalIfLarger": false,
   "enableImageCaptions": false,
