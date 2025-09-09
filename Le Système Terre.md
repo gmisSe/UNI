@@ -7,6 +7,10 @@
 
 ### Connaissance des matériaux de la Terre 
 
+#### Les minéraux 
+
+#### Les roches 
+
 ### Connaissance des grandes structures géologiques 
 
 ### Initiation aux méthodes géologiques / géophysiques 
