@@ -116,3 +116,30 @@ $0\leq l\leq n-1$
 | kjautho | ouu   | uaua | aoeua |
 | ------- | ----- | ---- | ----- |
 | uaeua   | uaoue | uaua | euau  |
+
+
+*aoeuaua*
+
+**aeuauau**
+
+
+***aeuouauauaueau***
+
+
+
+# aouu:
+## auaeouaeu
+### aueauaua
+#### aueaouauaue
+##### aeuauauau
+###### aeuauauau
+
+``` cpp
+#include <iostream>
+
+int main(){
+	std::cout << "niggers \n";
+	return 0;
+}
+
+```

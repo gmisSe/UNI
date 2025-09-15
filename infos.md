@@ -10,3 +10,5 @@ arnauld.heuret@univ-guyane.fr
 
 ects : credits Européens
 60 pour une année 
+
+Control 21 octobre 

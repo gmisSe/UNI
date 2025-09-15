@@ -77,9 +77,41 @@ Chez certains eucaryotes, les mitochondries ont évolua par suite d'une adaptati
 
 Lors des endosymbioses secondaires sont une réitération du processus, lorsqu'un eucaryote possédant déjà un endosymbiote entre en endosymbiose dans un autre eucaryote.
 
+# 2 La cellule Eucaryote
 
+La cellule est une unité vivante, c'est l'unité de base du vivant.
 
+Unité fondamentale structurale et fonctionnelle, capable de survivre et se reproduire de manière autonome.
 
+Individualité cellulaire grace à une membrane plasmique qui règle les échanges entre la cellule et l'environnement.
+
+Tous les êtres vivants sont faits de cellules (au moins une cellule).
+
+Toute cellule provient d'une autre cellule.
+
+La cellule renferme l'information (ADN) nécessaire à son fonctionnement et sa reproduction. L'ADN est libre ou stocké dans un noyau.
+
+Cellules avec noyau = Eucaryotes (1,5 milliards d'années).
+
+## Cellule unité de base du vivant 
+
+- L'organisation d'un être pluricellulaire repose sur une hiérarchie :
+	- ATOMES s'agencent en MOLECULES forment des structures fonctionnelles ORGANITE qui sont les composants des CELLULES se regroupent en TISSUS dont les arrangements forment les ORGANES.
+
+Comparaison entre la cellule eucaryote et procaryote
+
+|                             | PROCARYOTES                                                                                                                                                                   | EUCARYOTES                                                                                                                                                 |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Uni ou<br>pluricellulaire ? | Unicellulaire                                                                                                                                                                 | Uni et Pluricellulaire                                                                                                                                     |
+| Type ?                      | Bactérie                                                                                                                                                                      | Tous les types autres que les bactéries:<br>animaux, végétaux, protozoaires,<br>champignons...                                                             |
+| Métabolisme ?               | Aérobie ou Anaérobie                                                                                                                                                          | Aérobie(Anoerobie)                                                                                                                                         |
+| Noyau ?                     | Le nucléoide est une structure mal délimité sans enveloppe ni nucléole. il renferme un seul chromosome constitué d'adn circulaire. il n'y a pas d'histoires associés à l'adn. | C'est un vrai noyau avec une enveloppe nucléaire. il renforme au moins 2 chromosomes linéaires. Des histones sont associé à l'ADN                          |
+| Cytoplasme ?                | - Pas de cytosquelettes<br>- Pas de circulation cytoplasmique<br>- Pas d'endocytose ni d'éxocitose<br>- Pas d'organites intracytoplasmiques                                   | - Cytosquelettes formé de filament protéiques<br>- Flux cytoplasmique <br>- Endocytose et exocytose<br>- Organites internes délimités par 1 ou 2 membranes |
+| Membrane plasmique ?        | A la périphérie de la cellule, paroi cellulaire constituée de polysaccharides, protéines et lipides sous l'aquelle présence d'une membrane sans stérol                        | A la périphérie de la cellule, une membrane plasmique avec du cholestérol entourée d'une paroi cellulaire rigide dans les cas des cellules végétale        |
+| Synthèse protéique ?        | Acides nucléiques (ADN et ARN) et protéines sont synthétisés au meme endroit.                                                                                                 | Acides nucléique (ADN et ARN) synthétisés et assemblés dans le noyau. Protéines synthétisés dans le cytoplasme.                                            |
+
+plasmalemme : membrane plasmique 
+ribosome : machinerie de synthèse des protéines 
 
 
 
