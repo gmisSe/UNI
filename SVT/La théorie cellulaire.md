@@ -113,18 +113,36 @@ Comparaison entre la cellule eucaryote et procaryote
 plasmalemme : membrane plasmique 
 ribosome : machinerie de synthèse des protéines 
 
+Les cellules ont des fonctions communes :
+
+- Elles ont un programme génétique (ADN) et les moyens de le mettre en oeuvre (ARN, protéines, ribosomes)  ---> Différentiation 
+- Elles peuvent se diviser ---> Prolifération 
+- Elles ont un programme de mort ---> Apoptose 
+- Les cellules acquièrent et utilisent l'énergie ---> Métabolisme 
+- Les cellules mettent en ouvre des forces mécaniques
+
+Les cellules ont des fonctions spécifiques 
+
+- Elles répondent à des stimuli par la mise en oeuvre de fonctions spécialisées: 
+Stockage de macromolécules (amidon, glycogène, lipide...), contraction musculaire, conduction nerveuse, sécrétion endocrine et exocrine, photosynthèse, fonction immunitaire...
+
+
+Organisation des cellules eucaryotes 
+
+Un système complexe de membranes compartimente le protoplasme eucaryotique, y permettant la coexistence de phases de compositions différentes te bien définies. 
+L'enveloppe nucléaire sépare le noyau du cytoplasme, les membranes limite les différents organites. Le cytoplasme est parcouru par un réseau complexe et mouvant de saccuoles (réseau endoplasmique ou réseau lisse.)
+
+>Recherche à faire sur les ribosomes. description + fonction 
 
 
 
+Composants de la cellule eucaryote 
 
-
-
-
-
-
-
-
-
+- Les membranes 
+Les membranes cellulaires :
+biomembranes et membranes plasmiques 
+- Les jonctions cellulaires 
+- Le Noyau
 
 
 
