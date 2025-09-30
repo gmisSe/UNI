@@ -120,6 +120,76 @@ Cette loi permet de caractériser, pour une zone donnée l'aléa sismique.
 Aléa sismique = probabilité qu'un séisme ait lieu 
 
 
+La magnitude de moment permet de calculer l'énergie libérée lors du glissement sur le plan de la faille 
+Le modèle de rupture élastique permet alors de calculer trois paramètres fondamentaux :
+- la longueur du plan de la rupture en kilomètres
+- la largeur du plan de la rupture en kilomètres 
+- le glissement le long du plan de rupture 
+
+
+La secousse principale est parfois précédée de légers frémissements qui provoquent l'inquiétude des animaux : *phénomènes prémonitoires.*
+
+Les secousses qui suivent le séismes (répliques) peuvent se faire ressentir pendant plusieurs mois après se séisme. 
+
+Des conséquences secondaires aux séismes peuvent être observables pour des séismes plus faibles
+
+Déformation cosismique : 
+
+Déformation cosismique = déformation acquise durant se séisme.
+
+Déformation intersismique = déformation éventuelles très lentes se produisant entre deux séismes majeurs. 
+
+>ajouter : Schéma des déformations cosismique et intersismique dans un contexte de subduction (Source : Dunod, Elements de géologie)
+
+Comment les mesurer ?
+
+Données GPS : 
+- depuis une vingtaine d'années 
+- ne permettent pas de décrire la vitesse des failles avec précision
+- on leur doit la mise en évidence de séismes silencieux (glissements étalées dans le temps et insensibles en surface)
+
+Données imagerie SPOT : 
+- Famille de satellites développés par le CNES.
+- Grace à des technique de correlation de pixels, on peut  calculer avec une grande precision les déplacement horizontales 
+
+L'interférométrie radar : 
+- Comparaison de données radars issues de satellites (méthode in SAR)
+
+Les récifs corallien 
+
+
+
+Tsunamis 
+Différence tsunami et raz-de-marée ?
+
+Tsunami = origine géologique 
+Raz-de-marée : origine météorologique 
+
+Schéma de la genèse d'un tsunami (Source : Eléments de géologie - Dunod)
+
+
+Aléa : probabilité qu'un séisme se produise 
+Vulnérabilité : dégâts humains et matériels potentiels d'un séisme 
+Risques : Aléa x Vulnérabilité 
+
+Les effets de site pour les séismes : en fonction du terrain le risque peut être amplifier 
+Les effets de site : modification du mouvement sismique induite par les couches géologiques superficielles. 
+
+Prévision des séismes 
+
+La prévision des séismes repose principalement sur la connaissance de l'aléa sismique.
+
+Pour un aléa sismique équivalent. entre une zone soumise à un séisme récent et une zone assoupie, laquelle est la plus à risque ?
+
+Il s'agit de la zone restée longtemps assoupie (*gaps ou lacune de sismicité*) car l'énergie s'y est accumulée longtemps. 
+
+
+Au nord de San Francisco, la faille coulisse de plusieurs mm par an de manière asismique, l'énergie se libère petit à petit : phénomène de "creeping"
+
+Plus au sud, le mouvement est bloqué depuis 1906.
+
+
+
 
 
 # 3- Propagation des ondes sismiques 
