@@ -13,3 +13,23 @@ Elle est dynamique, en perpétuel mouvement et son organisation structurale vari
 - Elle possède une perméabilité sélective des molécules
 - Les constituants principaux des membranes sont des lipides et des protéines
 
+
+les membranes ont toujours les memes constituant, qui varient selon la spécificité cellulaire ou l'organite 
+
+- Les membranes sont des frontière de l'intérieur et de l'extéreur de la cellule 
+- Elle permettent de maintenir l'équilibre hydrique et ionique de la cellule 
+- Elle possède une perméabilité sélective des molécules
+- Les constituants principaux des membranes sont des lipides et des protéines 
+
+- Barriere entre l'intérieur et l'extéreur de la cellule 
+- Contrôle des entrées et des sorties de la cellule 
+
+
+
+
+## A. Composition des biomembranes
+
+Lipides (phospholipides et cholestérol) environ 49%
+Protéines (récepteurs, transporteurs, enzymes) environ 43%
+Glucide (glycophospholipides et glycoprotéines) environ 8%
+

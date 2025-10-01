@@ -12,6 +12,8 @@
 
 Le nucléole est un domaine nucléaire non délimité par une membrane, identifié comme le **centre de production des ribosomes**. Sa compréhension est cruciale car il relie la **biogenèse ribosomique** à la **croissance cellulaire**, au **cycle cellulaire**, et à certaines **maladies humaines**.
 
+Le nucléole est un organite ne possédant pas de membrane, c'est le centre de production des ribosomes. il relie la biogenèse ribosomique à la croissance cellulaire, au cycle cellulaire, et à certaines maladies.
+
 ---
 
 ## 3. Synthèse de l’article
@@ -59,4 +61,3 @@ Le nucléole est un domaine nucléaire non délimité par une membrane, identifi
 * Toutefois, l’article date de 2004 : depuis, des travaux ont montré un rôle encore plus large du nucléole, notamment dans le **contrôle de stress cellulaire** et comme **plateforme de séquestration de protéines**.
 
 ---
-

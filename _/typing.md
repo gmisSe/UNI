@@ -143,3 +143,40 @@ int main(){
 }
 
 ```
+
+
+
+selon la spîéciolisation et son stade de spacialisation 
+
+donc le ratio 
+
+si je suis sur une cellule neuronale 
+si je suis sur des globules rouge ou hématites 
+
+ou si je me trouve à l'intarieur des membranes d'une organite 
+
+la composition d'uen molécule va varié selos
+
+si on se trouve sur la membrane plasimique 
+
+
+
+
+
+
+
+
+
+différents types de constituant de bio membranes 
+quand vous aves un tableau comme ça, je vais vous demander de le traiter 
+premièrement le commenté 
+deuxièmement l'analyser 
+donc allez y 
+pe ss sm cholestérole 
+
+je vous demande un titre, les proportions entre les lipides 
+et de me dire ce que vous en pensez 
+on y va 
+vous allez me dire ce que vous remarquez 
+
+

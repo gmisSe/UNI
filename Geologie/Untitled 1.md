@@ -59,3 +59,55 @@ le verre : structure non organisé dans le mineral
 boule rouge, violet : grenat 
 
 
+# Roches Métamorphique 
+
+Structure : 
+- Schistosité (fragilité)
+- foliation (organisation en bande)
+- Migmatitisation (roches qui fondent et qui recrystallize, déformé)
+Minéraux :
+- Minéraux hérité de la roche d'origine (protolite = roche d'origine)
+- Minéraux formé lors du métamorphisme (permet d'identifier les conditions de pression et de température) :
+	- glaucophane (forte pression, température faible, zone de subduction) 
+
+
+protolite magmatique : roches orthodérivé
+protolite sédimentaire : roches paradérivé
+
+Noms composé selon la protolite 
+orthogneiss
+paragneiss 
+metagabro 
+
+# Roches Sédimentaires 
+
+Structure : 
+- Strates ?
+- Granulométrie 
+
+
+Minéraux / éléments figurés:
+- matériel accumulé 
+- matériaux sources 
+
+Chimie : 
+- Silicates ($SiO_{2}$)
+- Carbonates ($CaCO_{3}$) 
+
+Il faut frotter pour sentir les groins, pour l'argile, on ne sent pas les grains, c'est doux 
+
+Classification granulométrique :
+
+| Taille des grains | Sédiments meubles | Roches consolidés                 |
+| ----------------- | ----------------- | --------------------------------- |
+|                   | Blocs<br>Graviers | Conglomérat<br>Microconglomérat   |
+| 2mm               |                   |                                   |
+|                   | Grains de Sables  | Arenite <br>(gres pour le quartz) |
+| 0,063mm           |                   |                                   |
+|                   | Silt<br>Argile    | Siltite<br>Argilite               |
+Conglomérat Poudingue (galet dans la roche)
+Conglomérat Brèche (pierres anguleuses dans la roche)
+
+Classification de Dunham (uniquement roches carbonatés):
+
+![[schéma Dunham]]
