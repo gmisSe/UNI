@@ -1,4 +1,4 @@
-
+![[la péniche]]
 
 
 1 -  La résultante $\vec{R}$ des forces $\vec{F_{1}}$ et $\vec{F_{2}}$ est :
