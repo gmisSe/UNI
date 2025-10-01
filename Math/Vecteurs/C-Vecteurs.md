@@ -46,5 +46,18 @@ $\vec{u}=-\vec{v} \leftrightarrow \langle \begin{array}{c}  x=-x' \\ y=-y' \\ z=
 
 
 
+## Norme d'un vecteur
 
+(Dans un repère orthonormé de l'espace)
 
+*Projeté orthogonal d'un point*
+Le projeté orthogonal d'un point $A$ sur une droite $(d)$, est le point $M$ de $(d)$ tel que : $(AM)\bot(d)$ 
+![[D-projeté-orthogonal]]
+Le projeté orthogonal d'un point A sur un plan $(P)$, est le point $M$ de $(P)$ tel que $(AM)\bot(d)$ 
+
+![[D-projeté-orthogonal2]]
+
+*Calcule de la norme*
+
+Connaissant $A(x_{A};y_{A};z_{A})$ et $B(x_{B};y_{B};z_{B})$, $||\vec{AB}|| = \sqrt{ (x_{B}-x_{A})^{2}+(y_{B}-y_{A})^{2}+(z_{B}-z_{A})^{2} }$
+Si $\vec{u}\begin{pmatrix}x \\ y \\ z\end{pmatrix}$, alors $||\vec{u}||=\sqrt{ x^{2}+y^{2}+z^{2} }$
