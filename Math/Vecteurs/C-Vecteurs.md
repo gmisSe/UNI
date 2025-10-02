@@ -61,3 +61,26 @@ Le projeté orthogonal d'un point A sur un plan $(P)$, est le point $M$ de $(P)$
 
 Connaissant $A(x_{A};y_{A};z_{A})$ et $B(x_{B};y_{B};z_{B})$, $||\vec{AB}|| = \sqrt{ (x_{B}-x_{A})^{2}+(y_{B}-y_{A})^{2}+(z_{B}-z_{A})^{2} }$
 Si $\vec{u}\begin{pmatrix}x \\ y \\ z\end{pmatrix}$, alors $||\vec{u}||=\sqrt{ x^{2}+y^{2}+z^{2} }$
+# 4 Le produit scalaire
+
+## 1 Définition
+
+Le produit scalaire de deux vecteurs $\vec{AB}$ et $\vec{CD}$ est le nombre noté :
+$$
+\vec{AB} \cdot \vec{CD}
+$$
+
+### On le calcule par :
+
+$$
+\vec{AB} \cdot \vec{CD} = ||\vec{AB}|| \times ||\vec{CD}|| \times \cos(\widehat{\vec{AB}, \vec{CD}})
+$$
+
+### Propriété
+$\vec{u}.\vec{v}=\vec{v}.\vec{u}$
+
+# Vecteurs de même origine
+
+
+
+## Vecteurs de même origine
