@@ -19,9 +19,9 @@ Tracer $\vec{IJ}=-3\vec{EF}.$
 # 3- Coordonnées d'un vecteur  
 
 Dans l'espace muni d'un repère ($O, \vec{i}, \vec{j}, \vec{k}$), tout vecteur est définie de façon unique par la donnée de 3 nombres notés : 
-									- abscise 
-									- ordonnée
-									- côté 
+- abscise 
+- ordonnée
+- côté 
 Ce sont ses coordonnées.
 
 Exemple : Soit $M(x_{M};y_{M};Z_{M})$ un point de l'espace. 

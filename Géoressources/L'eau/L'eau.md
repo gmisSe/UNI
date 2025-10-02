@@ -210,9 +210,9 @@ d4e85ca70755f706cfea11595bac2d579d7f2286: [[PDF-L'eau.pdf#page=38]]
 
 6c7f644e843e7421bc128facb8272df6fc67c56a: [[PDF-L'eau.pdf#page=41]]
 
-7213117a0db92a231b895b7a923e03f404c671d8: [[Pasted Image 20251002142440_260.png]]
+7213117a0db92a231b895b7a923e03f404c671d8: [[Pluies annuelles Guyane.png]]
 
-b883e0c712153e39d0eaffb212604287dd3e5f21: [[Pasted Image 20251002143027_449.png]]
+b883e0c712153e39d0eaffb212604287dd3e5f21: [[Pluie annuelles guyane2.png]]
 
 %%
 ## Drawing
