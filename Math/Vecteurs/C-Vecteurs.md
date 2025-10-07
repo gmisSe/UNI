@@ -61,6 +61,7 @@ Le projeté orthogonal d'un point A sur un plan $(P)$, est le point $M$ de $(P)$
 
 Connaissant $A(x_{A};y_{A};z_{A})$ et $B(x_{B};y_{B};z_{B})$, $||\vec{AB}|| = \sqrt{ (x_{B}-x_{A})^{2}+(y_{B}-y_{A})^{2}+(z_{B}-z_{A})^{2} }$
 Si $\vec{u}\begin{pmatrix}x \\ y \\ z\end{pmatrix}$, alors $||\vec{u}||=\sqrt{ x^{2}+y^{2}+z^{2} }$
+
 # 4 Le produit scalaire
 
 ## 1 Définition
@@ -79,8 +80,57 @@ $$
 ### Propriété
 $\vec{u}.\vec{v}=\vec{v}.\vec{u}$
 
-# Vecteurs de même origine
+
+## 3 Autres calculs du produit scalaire.
+
+### a) Avec les coordonnées
+
+Soit $\vec{u}\begin{pmatrix}x \\ y \\ z \end{pmatrix}$ et $\vec{v}\begin{pmatrix}x' \\ y' \\ z'\end{pmatrix}$ deux vecteurs de l'espace ramené è un repère orthonormé. 
+> $\vec{u}.\vec{v}=xx'+yy'+zz'$
+
+[[EX4]]
 
 
+### b) Formules de polarisation 
 
-## Vecteurs de même origine
+Cas de configuration triangulaires. 
+
+* Si $\vec{u}$ et $\vec{v}$ ont la même origine : 
+  > $\vec{u}.\vec{v}= \frac{1}{2}(||\vec{u}||^{2}+||\vec{v}||^{2}-||\vec{u}-\vec{v}||^{2})$
+  > $\vec{AB}.\vec{AC}=\frac{1}{2}(AB^{2}+AC^{2}-||\vec{AB}-\vec{AC}||^{2})$
+  > or $\vec{AB}-\vec{AC}=\vec{AB}+\vec{CA}=\vec{CA}+\vec{AB}=\vec{CB}$
+  > donc $\vec{AB}.\vec{AC}=\frac{1}{2}(AB^{2}+AC^{2}-CB^{2})$
+- Dans les autres cas :
+> $\vec{u}.\vec{v}=\frac{1}{2}(||\vec{u}+\vec{v}||^{2}-||\vec{u}||^{2}-||\vec{v}||^{2})$
+
+[[EX5]]
+
+## 4 Orthogonalité 
+
+*2 vecteurs sont orthogonaux quand leur directions forment un angle droit*
+
+### Propriété 
+
+2 vecteurs $\vec{u}$ et $\vec{v}$ sont orthogonaux si leur produit scalaire est nul. 
+$\vec{u}\bot \vec{v} \leftrightarrow \vec{u}.\vec{v}=0$
+
+$\vec{u}\bot \vec{v}\rightarrow \widehat{(\vec{u};\vec{v})}=90°$
+$\rightarrow \cos(\widehat{\vec{u};\vec{v}})=\cos 90=0$
+donc $||\vec{u}.\vec{v}||=||\vec{u}||\times||\vec{v}||\times \cos 90$
+$= ||\vec{u}||\times||\vec{v}||\times0$
+
+## 5 Linéarité du produit scalaire 
+- $\vec{u}.\vec{v}=\vec{v}.\vec{u}$
+- $\vec{u}.(\vec{v}+\vec{w})=\vec{u}.\vec{v}+\vec{u}.\vec{w}$
+- $\vec{u}.(\vec{v}-\vec{w})=\vec{u}.\vec{v}-\vec{u}.\vec{w}$
+- $\vec{u}.(k \vec{v})=(k \vec{u}).\vec{v}=k \vec{u}.\vec{v}$
+(k désigne un nombre réel) 
+
+[[EX6]]
+
+# 5- Le produit vectoriel 
+
+Un repère orthonormé dans l'espace a ses 3 axes perpendiculaires , et la même norme pour les 3 vecteurs de base. 
+![[produit vecroriel]]
+  
+  
