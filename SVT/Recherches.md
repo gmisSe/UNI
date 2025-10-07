@@ -1,4 +1,4 @@
-# Les 8 acides aminées primordiaux 
+	# Les 8 acides aminées primordiaux 
 
 Chez l'humain, neuf acides aminés sont considérés comme essentiels : le tryptophane, la lysine, la méthionine, la phénylalanine, la thréonine, la valine, la leucine, l'isoleucine et l'histidine
 
