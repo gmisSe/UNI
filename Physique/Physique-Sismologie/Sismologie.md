@@ -189,10 +189,131 @@ Au nord de San Francisco, la faille coulisse de plusieurs mm par an de manière 
 Plus au sud, le mouvement est bloqué depuis 1906.
 
 
+Le moyen le plus efficace pour limiter les dégats d'un séisme, c'est d'éduquer la population 
+
+
+---
+Prévention contre les effets des séismes :
+
+Hypothèse : Provoquer des explosions pour relacher progressivement l'érgie du gap
+
+---
+
+Il y a des reliefs extraordinaire au niveau des limites des plaques, mais aussi des séismes 
+
+---
+Répartition globale des séismes 
+La répartition des séismes sur la Terre n'est pas aléatoire.
+- Au niveau des dorsales médioocéaniques
+- Au niveau de la ceinture Trans eurasiatique 
+- Au niveau de la zone circumpacifique 
+
+
+---
+Répartition globale des séismes 
+
+---
+Répartition globale des séismes 
+
+La répartition des séismes sur la Terre n'est pas aléatoire.
+il existe aussi des séismes intraplaques. Leur origine est mal comprise. 
+- Certains barrages pourraient par différences de niveaux modifier 
+
+---
+
+
+# 3- Propagation des ondes sismiques
+
+--- 
+Sismomètre et sismogrammes 
+Une station sismique contient 3 sismomètres. Deux horizontaux et un verticale 
+
+vert 
+
+Les progrès de la sismologie proviennent en partie de la mise en réseau des stations sismiques.
+
+France : le réseau Géoscope (Institut de Physique du Globe de Paris).
+Etats-Unis : le réseau NEIC (National Earthquake information Center) qui gère plus de 3500 stations sismiques. 
+
+---
+
+Sismomètre et sismogrammes 
+
+Les sismogrammes rendent compte en permanence d'un bruit de fond : *c'est l'activité micro-sismique*
+
+---
+Sismomètre et sismogrammes 
+
+Trois familles d'ondes principales lors d'un séisme :
+- Les ondes P qui sont des ondes courtes (1 à 10 secondes)
+- Les ondes S qui sont des ondes courtes également (1 à 10 secondes)
+- Les ondes L (longues), qui sont plus tardives et plus longues (30 à 40 secondes)
+	- On y distingue les ondes de Love et de Rayleigh.
+
+vert 
+
+---
+La nature des ondes 
+
+Les ondes sont de différentes nature : 
+- Les ondes de volumes (P et S) : se propagent dans toute les directions et traversent la planète selon des rais sismiques. 
+- Les ondes de surface (L) : circulent parallèlement à la surface terrestre. Elles se propagent horizontalement. Elles peuvent interférer ente elles. 
+
+vert
+
+---
+La nature des ondes 
+
+Les ondes P sont des ondes dites longitudinales : les particules sont déplacées dans la direction de la propagation. On peut également parler *d'ondes de compression* : elles produisent une série de compressions/extension de la matière. 
+
+insérer schema ondes P 
+
+---
+La nature des ondes
+
+Les ondes S sont dites *transversales* : les particules de la matières sont déplacées perpendiculairement à la propagation. On parle également *d'ondes de cisaillement.*
+
+insérer schema ondes S 
+vert 
+
+---
+La nature des ondes 
+
+Les ondes S peuvent être polarisées : 
+le mouvement des particules peut être orienté horizontalement (Sh) ou verticalement (Sv).
+
+insérer schema 
+
+vert 
+
+---
+La nature des ondes
+
+Les ondes de surfaces transmettent la plus grande partie de l'énergie. 
+
+Les ondes de Rayleigh ont un mouvement complexe, les particules effectuent une ellipse. 
+
+Les ondes de Love sont des ondes de cisaillement polarisées horizontalement 
+insérer schema ondes de Love : 
+
+vert 
+
+---
+Vitesse des ondes et localisation des séismes 
+
+il est possible de connaitre la vitesse des différentes ondes en tenant compte de la distance et de l'heure d'arrivée des ondes à différentes stations réceptrices. 
+
+Un *hodographe* est alors réalisé. 
 
 
 
-# 3- Propagation des ondes sismiques 
+---
+Vitesse des ondes et localisation des séismes 
+
+Cela s'explique par le fait que les ondes de surface restent à la surface du globe, le milieu dans lequel elles évoluent reste donc relativement homogène. 
+
+Les ondes de volume quant à elles, traversent la Terre et plus elles s'enfoncent dans les profondeurs de la Terre plus le milieu est dense. Or, leur vitesse augmente avec la densité du milieu. 
+
+vert
 
 # 4- Sismologie et structure de la Terre 
-
