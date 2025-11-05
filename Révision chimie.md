@@ -24,3 +24,6 @@ Cas particulier avec le chrome et autre élément : couche D5 et D10 particuliè
 électrons de cœur : électrons qui ne sont pas de valence 
 
 Pour les schéma de Lewis : Loi de l'octet sur les électrons de valence 
+
+u.m.a : $\frac{m\times N_{A}}{M}$
+
