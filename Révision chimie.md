@@ -18,6 +18,8 @@ e : Z - ou + x selon cation ou anion
 Configuration électronique : 
 utiliser le tableau 
 
+Cas particulier avec le chrome et autre élément : couche D5 et D10 particulièrement stable donc déplacement de 4s vers 3d d'un électron
+
 électrons de valence : électrons sur la couche n la plus élevé 
 électrons de cœur : électrons qui ne sont pas de valence 
 
