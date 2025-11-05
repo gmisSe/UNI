@@ -131,6 +131,42 @@ $= ||\vec{u}||\times||\vec{v}||\times0$
 # 5- Le produit vectoriel 
 
 Un repère orthonormé dans l'espace a ses 3 axes perpendiculaires , et la même norme pour les 3 vecteurs de base. 
-![[produit vecroriel]]
+=![[produit vecroriel]]
   
   
+Soit $\vec{u}$ et $\vec{v}$, 2 vecteurs de l'espace même d'un repère orthonormé direct. 
+Le produit vectoriel des vecteurs $\vec{u}$ et $\vec{v}$, est un autre vecteur noté $\vec{u}ch \vec{v}$
+- sa norme :
+	- $||\vec{u}ch \vec{v}||=||\vec{u}\times||\vec{v}||\times|\sin(\widehat{\vec{u},\vec{v}})|$
+- sa direction : $\vec{u}ch \vec{v}$ est perpendiculaire au plan contenant $\vec{u}$ et $\vec{v}$.
+- sons sens : Dans le plan qui contient $\vec{u}$ et $\vec{v}$, si on tourne dans le sens direct en allant de $\vec{u}$ vers $\vec{v}$, alors $\vec{u}ch \vec{v}$, viens vers nous. Sinon, il part dans le sens opposé 
+## 2 Coordonnées d'un produit vectoriel
+
+Soit 2 vecteurs $\vec{u}\begin{pmatrix}x\\ y\\ z \end{pmatrix}$ et $\vec{v}\begin{pmatrix}x'\\y'\\z'\end{pmatrix}$dans une base orthonormée directe.
+$(\vec{i},\vec{j},\vec{k})$
+$\vec{u}ch \vec{v}=(yz'-zy')\vec{i}+(zx'-xz')\vec{j}+(xy'-yx')\vec{k}$
+
+donc $\vec{u}ch \vec{v}\begin{pmatrix}yz'-zy'\\zx'-xz'\\xy'-yx'\end{pmatrix}$
+méthode pour trouver les coordonnées 
+On alterne les signes : 
+
+
+|                       | + sur $\vec{i}$                                                                                                       | - sur $\vec{k}$                                                                                                       | + sur $\vec{k}$                                                                                                       |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| $\vec{u}ch \vec{v}=+$ | $\begin{array}{c} \vec{i} \space x \space x' \\ \vec{j} \space y \space y' \\ \vec{k} \space z \space z' \end{array}$ | $\begin{array}{c} \vec{i} \space x \space x' \\ \vec{j} \space y \space y' \\ \vec{k} \space z \space z' \end{array}$ | $\begin{array}{c} \vec{i} \space x \space x' \\ \vec{j} \space y \space y' \\ \vec{k} \space z \space z' \end{array}$ |
+
+$\vec{u} ch \vec{v} =+(yz'-zy')\vec{i}-(xz'-zx')\vec{j}+(xy'-yx')\vec{k}=(yz'-zy')\vec{i}+(zx'-xz')\vec{j}+(xy'-yx')\vec{k}$
+
+## 3 
+
+La norme de $\vec{u}ch \vec{v}$, est égale à l'aire du parallélogramme ayant $\vec{u}$ et $\vec{v}$ pour côtés consécutifs. 
+
+
+### 4 Propriété
+
+- $\vec{u}ch \vec{v}=- \vec{v}ch \vec{u}$
+- 2 vecteurs $\vec{u}$ et $\vec{v}$ sont colinéaires (de même direction) si $\vec{u}ch \vec{v}= \vec{0}$
+- $\vec{u}ch k.\vec{v}=k.\vec{u}ch v= k.(\vec{u}ch \vec{v})$ 
+- $\vec{u}ch (\vec{v}+\vec{w}=\vec{u}ch \vec{v}+\vec{u}ch \vec{w}$ 
+
+ 
