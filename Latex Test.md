@@ -11,5 +11,6 @@ eua
 
 $x^{2}+x+x^{3}$
 
-$+ \infty$
+$+ \infty$0
 
+$]+\infty[$
