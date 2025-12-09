@@ -85,7 +85,14 @@ Stereotypic behaviors --> A repetitive movement showing stress
 
 It has clearly been written by someone that's against zoos. It's first revealed in the form of the document, the author choose to present the arguments of the the zoos proponents first and then the zoos opponent. In these kind of argumentation you always start with the arguments of the party you don't agree with to better counter their arguments, and that's what i think the author is doing. 
 
-ligne 3 "zoos present themselves as essential actors in the protection of endangered species"  he uses the formulation "present themselves" as if it's the zoos that want us to perceive them as such and not that they fundamentally 
+ligne 3 "zoos present themselves as essential actors in the protection of endangered species"  he uses the formulation "present themselves" as if it's the zoos that want us to perceive them as such and not that they fundamentally. 
+
+In the introduction he highlights that breeding programs are what's keeping some species alive, he does somewhat link the breeding programs to zoos as they are done in zoos, but not clearly as to make the reader notice that breeding programs can be done without the need of zoos 
+
+When he presents the arguments of both parties there is only one paragraph to present the proponents arguments while there is 2 for the opponents side. 
+
+He chooses different formulations for the two party, for the proponents : "Proponents of zoos also *insist*", "*Some* studies", "supporters *claim*"... while for the opponents : "critics *argue*" "*Many animal welfare organisation*", "They *argue*", "*Several behavioral studies*". As you can see the author clearly present one side better than the other, emphasizing on that fact that opponents argue, and have more accurate studies than the other party that insist like they want us to believe and where he says 'some studies' to lessen their value.   
+
 
 
 
@@ -93,3 +100,11 @@ ligne 3 "zoos present themselves as essential actors in the protection of endang
 ### 2) What compromise is mentioned in the text regarding the future of zoos ?
 
 
+1 intro 3 argument 3 contre argument 1 conclu
+
+Iliana : Introduction / conclusion 
+Meloesha : contre argument 
+Simon : conte argument 
+Ludovic : argument
+Stan : argmument 
+Margot : contre argument 
